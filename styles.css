@@ -1,0 +1,19 @@
+ /*Optional: Style to indicate the newsfeed is hidden 
+[role="main"] {
+    background-image: url("family.jpg");
+  }
+  
+  body::after {
+    content: "";
+    
+    display: block;
+    text-align: center;
+    font-size: 20px;
+    color: #888;
+    margin-top: 20px;
+
+  
+
+  
+  }
+    */
